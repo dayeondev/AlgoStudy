@@ -1,4 +1,4 @@
-// https://www.acmicpc.net/problem/1001
+// https://www.acmicpc.net/problem/10998
 
 #include <stdio.h>
 
@@ -9,7 +9,7 @@ void input(){
 }
 
 void solution(){
-    printf("%d", a-b);
+    printf("%d", a*b);
 }
 
 int main(){
