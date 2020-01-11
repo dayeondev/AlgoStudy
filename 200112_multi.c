@@ -3,21 +3,21 @@
 #include <stdio.h>
 
 int a, b;
-long i, j, k;
+int i, j, k;
 
 void input(){
     scanf("%d %d", &a, &b);
 }
 
 void solution(int a, int b){
-    i = a * (b % 10);
-    j = a * ((b % 100 - b % 10) / 10);
-    k = a * ((b - (b % 100 - b % 10) / 10) / 100);
+    i = b % 10 * a;
+    j = b / 10 % 10 * a;
+    k = b / 100 * a;
 
-    printf("%ld\n", i);
-    printf("%ld\n", j);
-    printf("%ld\n", k);
-    printf("%ld\n", i + j * 10 + k * 100);
+    printf("%d\n", i);
+    printf("%d\n", j);
+    printf("%d\n", k);
+    printf("%d\n", i + j * 10 + k * 100);
 }
 
 int main(){
