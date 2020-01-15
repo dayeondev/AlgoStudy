@@ -11,8 +11,10 @@ void input(){
 void solution(){
     int _hours, _minutes;
     _minutes = hours * 60 + minutes - 45;
+
     if(_minutes < 0){
-        _minutes = _minutes + 24 * 60;
+        _minutes = _minutes + 24 * 
+        60;
     }
     _hours = _minutes / 60;
     _minutes = _minutes % 60;
