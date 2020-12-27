@@ -10,16 +10,10 @@
 
 
 
-#### 26(금)
+#### 26(토)
 
 1. [개](https://www.acmicpc.net/problem/10172)
 2. [A+B](https://www.acmicpc.net/problem/1000)
 3. [A-B](https://www.acmicpc.net/problem/1001)
 4. [AMultiplyB](https://www.acmicpc.net/problem/10998)
-
-
-
-
-
-1. [ADivisionB](https://www.acmicpc.net/problem/1008)
 
