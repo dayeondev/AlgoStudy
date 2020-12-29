@@ -19,3 +19,12 @@
 4. [사분면 고르기](https://www.acmicpc.net/problem/14681)
 5. [알람 시계](https://www.acmicpc.net/problem/2884)
 
+
+
+#### 29(화)
+
+1. [구구단](https://www.acmicpc.net/problem/2739)
+2. [A+B-3](https://www.acmicpc.net/problem/10950)
+
+
+
