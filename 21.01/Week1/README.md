@@ -12,5 +12,3 @@
 
 1. [최댓값](https://www.acmicpc.net/problem/2562)
 2. [숫자의 개수](https://www.acmicpc.net/problem/2577)
-3. [나머지](https://www.acmicpc.net/problem/3052)
-4. 
