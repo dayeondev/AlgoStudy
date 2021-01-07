@@ -21,3 +21,11 @@
 x
 
 
+
+#### 07(목)
+
+1. [팰린드롬수](https://www.acmicpc.net/problem/1259)
+
+   [algorithm 헤더파일의 reverse() 함수](https://blockdmask.tistory.com/363)를 통해 해결하였다.
+
+2. [명령 프롬프트](https://www.acmicpc.net/problem/1032)
