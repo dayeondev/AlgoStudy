@@ -15,10 +15,10 @@ int main(){
     reverse(input.begin(), input.end());
     if(input != "0"){
       if(buffer == input){
-        cout << "yes\n";
+        cout << "yes" << "\n";
       }
       else{
-        cout << "no\n";
+        cout << "no" << "\n";
       }
     }
   }
