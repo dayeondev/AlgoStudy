@@ -29,3 +29,11 @@ x
    [algorithm 헤더파일의 reverse() 함수](https://blockdmask.tistory.com/363)를 통해 해결하였다.
 
 2. [명령 프롬프트](https://www.acmicpc.net/problem/1032)
+
+
+
+#### 08(금)
+
+1. [그룹 단어 체커](https://www.acmicpc.net/problem/1316)
+2. [약수](https://www.acmicpc.net/problem/1037)
+3. 
