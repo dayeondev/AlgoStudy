@@ -41,5 +41,5 @@ x
 
 #### 09(토)
 
-1. ~~[좋은 구간](https://www.acmicpc.net/problem/1059)~~
+1. [좋은 구간](https://www.acmicpc.net/problem/1059)
 2. [상근날드](https://www.acmicpc.net/problem/5543)
