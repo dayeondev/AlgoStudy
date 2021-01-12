@@ -15,4 +15,14 @@
 
 #### 12(화)
 
-1. 
+1. [숫자 카드](https://www.acmicpc.net/problem/10815)
+2. [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+3. [수 정렬하기3](https://www.acmicpc.net/problem/10989)
+4. [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)
+5. [스택](https://www.acmicpc.net/problem/10828)
+6. [큐](https://www.acmicpc.net/problem/10845)
+
+
+#### 13(수)
+
+1. [덱](https://www.acmicpc.net/problem/10866)
