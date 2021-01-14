@@ -26,3 +26,8 @@
 #### 13(수)
 
 1. [덱](https://www.acmicpc.net/problem/10866)
+
+
+#### 14(목)
+
+1. [A+B - 2](https://www.acmicpc.net/problem/2558)
