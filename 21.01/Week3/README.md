@@ -31,3 +31,8 @@
 #### 14(목)
 
 1. [A+B - 2](https://www.acmicpc.net/problem/2558)
+
+
+#### 15(금)
+
+1. [별 찍기 - 3](https://www.acmicpc.net/problem/2440)
