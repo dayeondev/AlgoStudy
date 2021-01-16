@@ -42,3 +42,6 @@
 
 1. [별 찍기 - 4](https://www.acmicpc.net/problem/2441)
 2. [에디터](https://www.acmicpc.net/problem/1406)
+3. [보물](https://www.acmicpc.net/problem/1026)
+4. [피시방 알바](https://www.acmicpc.net/problem/1453)
+5. [별 찍기 - 5](https://www.acmicpc.net/problem/2442)
