@@ -36,3 +36,8 @@
 #### 15(금)
 
 1. [별 찍기 - 3](https://www.acmicpc.net/problem/2440)
+
+
+#### 16(토)
+
+1. [별 찍기 - 4](https://www.acmicpc.net/problem/2441)
