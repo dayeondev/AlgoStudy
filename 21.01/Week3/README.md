@@ -41,3 +41,4 @@
 #### 16(토)
 
 1. [별 찍기 - 4](https://www.acmicpc.net/problem/2441)
+2. [에디터](https://www.acmicpc.net/problem/1406)
