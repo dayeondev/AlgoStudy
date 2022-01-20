@@ -13,3 +13,7 @@
 #### 18(화)
 
 1. [상수](https://www.acmicpc.net/problem/2908)
+
+#### 20(수)
+
+1. [문자열 반복](https://www.acmicpc.net/problem/2675)
