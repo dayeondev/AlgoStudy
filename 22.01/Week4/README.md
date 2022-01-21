@@ -14,6 +14,11 @@
 
 1. [상수](https://www.acmicpc.net/problem/2908)
 
-#### 20(수)
+#### 20(목)
 
 1. [문자열 반복](https://www.acmicpc.net/problem/2675)
+
+
+#### 21(금)
+
+1. [문자열 반복](https://www.acmicpc.net/problem/2292)
