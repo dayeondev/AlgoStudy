@@ -23,6 +23,6 @@
 
 1. [문자열 반복](https://www.acmicpc.net/problem/2292)
 
-#### 21(금)
+#### 22(토)
 
-1. [문자열 반복](https://www.acmicpc.net/problem/1193)
+1. [분수찾기](https://www.acmicpc.net/problem/1193)
