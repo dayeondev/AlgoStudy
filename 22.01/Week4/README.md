@@ -22,3 +22,7 @@
 #### 21(금)
 
 1. [문자열 반복](https://www.acmicpc.net/problem/2292)
+
+#### 21(금)
+
+1. [문자열 반복](https://www.acmicpc.net/problem/1193)
