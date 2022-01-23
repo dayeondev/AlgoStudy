@@ -26,3 +26,4 @@
 #### 22(토)
 
 1. [분수찾기](https://www.acmicpc.net/problem/1193)
+2. [달팽이는_올라가고_싶다](https://www.acmicpc.net/problem/2869)
