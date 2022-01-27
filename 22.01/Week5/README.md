@@ -17,3 +17,7 @@
 #### 26(수)
 
 1. [아스키 코드](https://www.acmicpc.net/problem/11654)
+
+#### 27(목)
+
+1. [다이얼](https://www.acmicpc.net/problem/5622)
