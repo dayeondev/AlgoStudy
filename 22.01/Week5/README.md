@@ -21,3 +21,7 @@
 #### 27(목)
 
 1. [다이얼](https://www.acmicpc.net/problem/5622)
+
+#### 28(금)
+
+1. [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)
