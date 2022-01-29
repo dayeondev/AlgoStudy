@@ -25,3 +25,7 @@
 #### 28(금)
 
 1. [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)
+
+#### 29(토)
+
+1. [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)
