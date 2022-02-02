@@ -2,6 +2,10 @@
 
 -------
 
-#### 1(월)
+#### 1(화)
 
 1. [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
+
+#### 2(수)
+
+1. [소인수분해](https://www.acmicpc.net/problem/11653)
