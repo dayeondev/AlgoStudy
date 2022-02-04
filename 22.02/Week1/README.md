@@ -13,3 +13,7 @@
 #### 3(목)
 
 1. [네 번째 점](https://www.acmicpc.net/problem/3009)
+
+#### 4(금)
+
+1. [소수 구하기](https://www.acmicpc.net/problem/1929)
