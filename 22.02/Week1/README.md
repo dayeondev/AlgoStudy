@@ -17,3 +17,7 @@
 #### 4(금)
 
 1. [소수 구하기](https://www.acmicpc.net/problem/1929)
+
+#### 5(토)
+
+1. [직각삼각형](https://www.acmicpc.net/problem/4153)
