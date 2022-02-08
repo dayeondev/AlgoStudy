@@ -10,3 +10,6 @@
 
 1. [베르트랑 공준](https://www.acmicpc.net/problem/4948)
 
+#### 8(화)
+
+1.[팩토리얼](https://www.acmicpc.net/problem/10872)
