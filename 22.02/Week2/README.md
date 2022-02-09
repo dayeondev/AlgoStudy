@@ -13,3 +13,7 @@
 #### 8(화)
 
 1.[팩토리얼](https://www.acmicpc.net/problem/10872)
+
+#### 9(수)
+
+1.[택시 기하학](https://www.acmicpc.net/problem/3053)
