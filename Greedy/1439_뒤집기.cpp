@@ -2,24 +2,24 @@
 
 using namespace std;
 
-int T;
-int cnt;
-
-int buttonTypes[3] = {300, 60, 10};
-int buttonCnt[3] = {0, 0, 0};
+string str;
 
 int main(void){
-    cin >> T;
-    for (int i = 0; i < 3; i++){
-        // cnt += ;
-        buttonCnt[i] = T / buttonTypes[i];
-        T %= buttonTypes[i];
+    cin >> str;
+    int result = 0;
+
+    if (str.length() == 1){
+        cout << 0 << endl;
+        return 0;
     }
-    if (T == 0){
-        cout << buttonCnt[0] << ' ' << buttonCnt[1] << ' ' << buttonCnt[2] << '\n';
+
+    int prev = str[0];
+    for(int i = 1; i < str.length(); i++){
+        if (prev != str[i]&&str[i]!=str[0]){
+            result++;
+        }
+        prev = str[i];
     }
-    else{
-        cout << -1 << '\n';
-    }
-    // cout << cnt << '\n';
+
+    cout << result << endl;
 }
